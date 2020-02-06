@@ -1,0 +1,6 @@
+client/node_modules/
+public/images/
+public/javascripts/
+/node_modules/
+/.idea/
+!/package-lock.json
